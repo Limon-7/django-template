@@ -1,0 +1,1 @@
+### django template for ml model deployment
